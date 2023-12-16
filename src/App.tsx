@@ -14,7 +14,7 @@ function App() {
     <Typography variant='h2' component='h1'>
       <Stack direction='row' gap={2} alignItems='center' justifyContent='CenterFocusStrong'>
     <JavaScriptLogo />
-     JavaScript Quizz
+     JavaScript Quiz
      </Stack>
      </Typography>
 
